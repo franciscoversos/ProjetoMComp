@@ -1,0 +1,120 @@
+﻿Information listing created by	ASUS
+Date	07-Dec-2023 20:11:54
+Current work part	C:\Users\ASUS\Documents\MCOMP\PROJETO\peça em metros_fem23.fem
+Node name	LAPTOP-RQ9ND5TO
+
+
+ 
+------------------------------------------------------------
+ 
+              ELEMENT INFORMATION
+ 
+------------------------------------------------------------
+ 
+ 
+ELEMENT INFORMATION
+  Label                | Element Type   | Mesh           | Mesh Collector | Connected Nodes
+  1                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 321 356 258 4 322 267 75 76
+  2                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 20 19 17 18 77 78 79 80
+  3                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 20 18 265 266 80 81 268 82
+  4                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 249 250 19 20 253 83 77 84
+  5                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 249 20 266 354 84 82 269 254
+  6                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 21 16 17 19 85 86 78 87
+  7                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 21 19 250 251 87 83 255 88
+  8                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 22 252 355 277 89 256 294 90
+  9                    | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 22 277 278 15 90 295 91 92
+  10                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 21 251 252 22 88 257 89 93
+  11                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 21 22 15 16 93 92 94 85
+  12                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 264 265 18 23 270 81 95 96
+  13                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 24 9 262 263 97 98 271 99
+  14                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 24 263 264 23 99 272 96 100
+  15                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 280 281 13 25 296 101 102 103
+  16                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 26 15 278 279 104 91 297 105
+  17                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 26 279 280 25 105 298 103 106
+  18                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 28 25 13 14 107 102 108 109
+  19                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 2 9 24 27 110 97 111 112
+  20                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 2 27 28 14 112 113 109 114
+  21                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 29 16 15 26 115 94 104 116
+  22                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 29 26 25 28 116 106 107 117
+  23                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 30 23 18 17 118 95 79 119
+  24                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 30 17 16 29 119 86 115 120
+  25                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 27 24 23 30 111 100 118 121
+  26                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 27 30 29 28 121 120 117 113
+  27                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 34 261 262 9 122 273 98 123
+  28                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 34 9 2 31 123 110 124 125
+  29                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 38 4 258 259 126 75 274 127
+  30                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 38 259 260 35 127 275 128 129
+  31                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 37 12 4 38 130 131 126 132
+  32                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 33 11 12 37 133 134 130 135
+  33                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 32 33 37 39 136 135 137 138
+  34                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 40 284 285 10 139 299 140 141
+  35                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 40 10 11 33 141 142 133 143
+  36                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 41 283 284 40 144 300 139 145
+  37                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 41 40 33 32 145 143 136 146
+  38                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 43 31 2 14 147 124 114 148
+  39                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 13 281 282 42 101 301 149 150
+  40                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 13 42 43 14 150 151 148 108
+  41                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 42 282 283 41 149 302 144 152
+  42                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 43 42 41 44 151 152 153 154
+  43                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 292 293 1 48 303 155 156 157
+  44                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 292 48 49 291 157 158 159 304
+  45                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 50 3 289 290 160 161 305 162
+  46                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 50 290 291 49 162 306 159 163
+  47                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 1 293 357 340 155 307 343 164
+  48                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 342 360 347 7 344 350 165 166
+  49                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 342 7 8 341 166 167 168 345
+  50                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 6 349 359 333 169 351 336 170
+  51                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 5 335 358 312 171 337 323 172
+  52                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 5 51 53 55 173 174 175 176
+  53                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 5 55 334 335 176 177 338 171
+  54                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 57 7 347 348 178 165 352 179
+  55                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 349 6 54 56 169 180 181 182
+  56                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 349 56 57 348 182 183 179 353
+  57                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 52 8 7 57 184 167 178 185
+  58                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 56 54 53 58 181 186 187 188
+  59                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 56 58 52 57 188 189 185 183
+  60                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 320 321 4 12 324 76 131 190
+  61                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 61 319 320 12 191 325 190 192
+  62                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 61 12 11 60 192 134 193 194
+  63                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 60 11 10 45 193 142 195 196
+  64                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 61 60 45 46 194 196 197 198
+  65                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 59 318 319 61 199 326 191 200
+  66                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 59 61 46 47 200 198 201 202
+  67                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 317 318 59 62 327 199 203 204
+  68                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 3 62 59 47 205 203 202 206
+  69                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 5 312 313 65 172 328 207 208
+  70                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 5 65 66 51 208 209 210 173
+  71                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 67 63 64 66 211 212 213 214
+  72                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 65 313 314 68 207 329 215 216
+  73                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 65 68 67 66 216 217 214 209
+  74                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 70 1 340 341 218 164 346 219
+  75                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 70 341 8 69 219 168 220 221
+  76                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 70 69 64 63 221 222 212 223
+  77                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 70 63 48 1 223 224 156 218
+  78                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 288 289 3 47 308 161 206 225
+  79                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 288 47 46 287 225 201 226 309
+  80                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 45 10 285 286 195 140 310 227
+  81                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 45 286 287 46 227 311 226 197
+  82                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 36 31 43 44 228 147 154 229
+  83                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 39 44 41 32 230 153 146 138
+  84                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 37 38 35 39 132 129 231 137
+  85                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 39 35 36 44 231 232 229 230
+  86                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 35 260 261 36 128 276 233 232
+  87                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 36 261 34 31 233 122 125 228
+  88                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 58 53 51 71 187 174 234 235
+  89                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 51 66 64 71 210 213 236 234
+  90                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 71 64 69 72 236 222 237 238
+  91                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 72 69 8 52 237 220 184 239
+  92                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 52 58 71 72 189 235 238 239
+  93                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 6 333 334 55 170 339 177 240
+  94                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 6 55 53 54 240 175 186 180
+  95                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 48 63 67 49 224 211 241 158
+  96                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 68 314 315 73 215 330 242 243
+  97                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 73 315 316 74 242 331 244 245
+  98                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 74 316 317 62 244 332 204 246
+  99                   | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 50 74 62 3 247 246 205 160
+  100                  | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 73 74 50 49 245 247 163 248
+  101                  | CQUAD8         | 2d_mesh(1)     | Thin Shell(1)  | 49 67 68 73 241 217 243 248
+ 
+------------------------------------------------------------
+ 

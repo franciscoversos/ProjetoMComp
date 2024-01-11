@@ -1,0 +1,2167 @@
+﻿Information listing created by	ASUS
+Date	07-Dec-2023 20:11:18
+Current work part	C:\Users\ASUS\Documents\MCOMP\PROJETO\peça em metros_fem23.fem
+Node name	LAPTOP-RQ9ND5TO
+
+
+NODE INFORMATION
+Label 1 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1690.0000  60.0000   0.0000  
+    Connected elements                  : 43 47 74 77 
+ 
+Label 2 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 500.0000  250.0000  0.0000  
+    Connected elements                  : 19 20 28 38 
+ 
+Label 3 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1300.0000  150.0000  0.0000  
+    Connected elements                  : 45 68 78 99 
+ 
+Label 4 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 930.0000  440.0000  0.0000  
+    Connected elements                  : 1 29 31 60 
+ 
+Label 5 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1670.0000  440.0000  0.0000  
+    Connected elements                  : 51 52 53 69 70 
+ 
+Label 6 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1930.0000  440.0000  0.0000  
+    Connected elements                  : 50 55 93 94 
+ 
+Label 7 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1930.0000  190.0000  0.0000  
+    Connected elements                  : 48 49 54 57 
+ 
+Label 8 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1800.0000  150.0000  0.0000  
+    Connected elements                  : 49 57 75 91 
+ 
+Label 9 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 484.9898  393.2586  0.0000  
+    Connected elements                  : 13 19 27 28 
+ 
+Label 10 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 924.7742  91.7059   0.0000  
+    Connected elements                  : 34 35 63 80 
+ 
+Label 11 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 937.9076  179.8252  0.0000  
+    Connected elements                  : 32 35 62 63 
+ 
+Label 12 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 971.7497  290.1702  0.0000  
+    Connected elements                  : 31 32 60 61 62 
+ 
+Label 13 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 505.8637  95.3596   0.0000  
+    Connected elements                  : 15 18 39 40 
+ 
+Label 14 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 501.1122  182.0490  0.0000  
+    Connected elements                  : 18 20 38 40 
+ 
+Label 15 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 202.7780  97.8278   0.0000  
+    Connected elements                  : 9 11 16 21 
+ 
+Label 16 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 201.7531  196.0721  0.0000  
+    Connected elements                  : 6 11 21 24 
+ 
+Label 17 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 201.1353  295.6640  0.0000  
+    Connected elements                  : 2 6 23 24 
+ 
+Label 18 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 201.2665  397.4494  0.0000  
+    Connected elements                  : 2 3 12 23 
+ 
+Label 19 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 100.7422  298.2395  0.0000  
+    Connected elements                  : 2 4 6 7 
+ 
+Label 20 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 100.8238  398.9272  0.0000  
+    Connected elements                  : 2 3 4 5 
+ 
+Label 21 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 100.9812  198.3376  0.0000  
+    Connected elements                  : 6 7 10 11 
+ 
+Label 22 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 101.4323  99.0364   0.0000  
+    Connected elements                  : 8 9 10 11 
+ 
+Label 23 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 300.5412  395.2068  0.0000  
+    Connected elements                  : 12 14 23 25 
+ 
+Label 24 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 396.6951  392.4610  0.0000  
+    Connected elements                  : 13 14 19 25 
+ 
+Label 25 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 404.8843  94.5057   0.0000  
+    Connected elements                  : 15 17 18 22 
+ 
+Label 26 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 303.9119  96.1655   0.0000  
+    Connected elements                  : 16 17 21 22 
+ 
+Label 27 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 399.4327  280.2239  0.0000  
+    Connected elements                  : 19 20 25 26 
+ 
+Label 28 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 401.8709  186.9116  0.0000  
+    Connected elements                  : 18 20 22 26 
+ 
+Label 29 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 302.0528  192.4451  0.0000  
+    Connected elements                  : 21 22 24 26 
+ 
+Label 30 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 300.7309  290.8727  0.0000  
+    Connected elements                  : 23 24 25 26 
+ 
+Label 31 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 580.0185  301.2155  0.0000  
+    Connected elements                  : 28 38 82 87 
+ 
+Label 32 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 772.9565  194.3512  0.0000  
+    Connected elements                  : 33 37 83 
+ 
+Label 33 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 849.2008  190.8981  0.0000  
+    Connected elements                  : 32 33 35 37 
+ 
+Label 34 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 558.7077  408.6098  0.0000  
+    Connected elements                  : 27 28 87 
+ 
+Label 35 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 741.0879  382.0925  0.0000  
+    Connected elements                  : 30 84 85 86 
+ 
+Label 36 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 656.0344  350.0787  0.0000  
+    Connected elements                  : 82 85 86 87 
+ 
+Label 37 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 854.5653  290.5004  0.0000  
+    Connected elements                  : 31 32 33 84 
+ 
+Label 38 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 834.1791  403.9277  0.0000  
+    Connected elements                  : 29 30 31 84 
+ 
+Label 39 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 762.2117  276.4256  0.0000  
+    Connected elements                  : 33 83 84 85 
+ 
+Label 40 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 827.5654  101.9352  0.0000  
+    Connected elements                  : 34 35 36 37 
+ 
+Label 41 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 718.7721  126.7791  0.0000  
+    Connected elements                  : 36 37 41 42 83 
+ 
+Label 42 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 607.5801  106.6014  0.0000  
+    Connected elements                  : 39 40 41 42 
+ 
+Label 43 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 593.7743  206.3061  0.0000  
+    Connected elements                  : 38 40 42 82 
+ 
+Label 44 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 681.6529  240.3437  0.0000  
+    Connected elements                  : 42 82 83 85 
+ 
+Label 45 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1015.2182  83.7465   0.0000  
+    Connected elements                  : 63 64 80 81 
+ 
+Label 46 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1103.8611  95.3982   0.0000  
+    Connected elements                  : 64 66 79 81 
+ 
+Label 47 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1203.4600  99.2892   0.0000  
+    Connected elements                  : 66 68 78 79 
+ 
+Label 48 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1626.4084  81.0987   0.0000  
+    Connected elements                  : 43 44 77 95 
+ 
+Label 49 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1525.3130  110.3798  0.0000  
+    Connected elements                  : 44 46 95 100 101 
+ 
+Label 50 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1403.5197  98.8653   0.0000  
+    Connected elements                  : 45 46 99 100 
+ 
+Label 51 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1724.3136  332.7463  0.0000  
+    Connected elements                  : 52 70 88 89 
+ 
+Label 52 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1835.6384  235.2212  0.0000  
+    Connected elements                  : 57 59 91 92 
+ 
+Label 53 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1808.5018  361.9493  0.0000  
+    Connected elements                  : 52 58 88 94 
+ 
+Label 54 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1882.8119  375.7798  0.0000  
+    Connected elements                  : 55 58 94 
+ 
+Label 55 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1802.1815  432.5698  0.0000  
+    Connected elements                  : 52 53 93 94 
+ 
+Label 56 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1904.7827  327.8864  0.0000  
+    Connected elements                  : 55 56 58 59 
+ 
+Label 57 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1918.3488  263.3329  0.0000  
+    Connected elements                  : 54 56 57 59 
+ 
+Label 58 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1825.7247  299.0939  0.0000  
+    Connected elements                  : 58 59 88 92 
+ 
+Label 59 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1185.2368  165.4718  0.0000  
+    Connected elements                  : 65 66 67 68 
+ 
+Label 60 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1012.7196  152.4661  0.0000  
+    Connected elements                  : 62 63 64 
+ 
+Label 61 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1075.6145  198.6232  0.0000  
+    Connected elements                  : 61 62 64 65 66 
+ 
+Label 62 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1278.1787  173.8944  0.0000  
+    Connected elements                  : 67 68 98 99 
+ 
+Label 63 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1668.3451  153.8796  0.0000  
+    Connected elements                  : 71 76 77 95 
+ 
+Label 64 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1709.6144  218.6121  0.0000  
+    Connected elements                  : 71 76 89 90 
+ 
+Label 65 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1608.1757  309.0385  0.0000  
+    Connected elements                  : 69 70 72 73 
+ 
+Label 66 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1660.5770  263.1573  0.0000  
+    Connected elements                  : 70 71 73 89 
+ 
+Label 67 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1603.5105  191.9397  0.0000  
+    Connected elements                  : 71 73 95 101 
+ 
+Label 68 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1546.8682  235.6079  0.0000  
+    Connected elements                  : 72 73 96 101 
+ 
+Label 69 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1754.5207  181.6447  0.0000  
+    Connected elements                  : 75 76 90 91 
+ 
+Label 70 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1732.4041  121.4362  0.0000  
+    Connected elements                  : 74 75 76 77 
+ 
+Label 71 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1759.3849  272.5805  0.0000  
+    Connected elements                  : 88 89 90 92 
+ 
+Label 72 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1784.7597  232.2311  0.0000  
+    Connected elements                  : 90 91 92 
+ 
+Label 73 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1467.8833  179.5511  0.0000  
+    Connected elements                  : 96 97 100 101 
+ 
+Label 74 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1371.0353  161.5647  0.0000  
+    Connected elements                  : 97 98 99 100 
+ 
+Label 75 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 920.7650  470.0000  0.0000  
+    Connected elements                  : 1 29 
+ 
+Label 76 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 972.4181  427.7402  0.0000  
+    Connected elements                  : 1 60 
+ 
+Label 77 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 100.7830  348.5834  0.0000  
+    Connected elements                  : 2 4 
+ 
+Label 78 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 150.9387  296.9518  0.0000  
+    Connected elements                  : 2 6 
+ 
+Label 79 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 201.2009  346.5567  0.0000  
+    Connected elements                  : 2 23 
+ 
+Label 80 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 151.0451  398.1883  0.0000  
+    Connected elements                  : 2 3 
+ 
+Label 81 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 201.9144  448.7247  0.0000  
+    Connected elements                  : 3 12 
+ 
+Label 82 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 101.0524  449.4636  0.0000  
+    Connected elements                  : 3 5 
+ 
+Label 83 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 50.3711   299.1198  0.0000  
+    Connected elements                  : 4 7 
+ 
+Label 84 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 50.4119   399.4636  0.0000  
+    Connected elements                  : 4 5 
+ 
+Label 85 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 151.3672  197.2048  0.0000  
+    Connected elements                  : 6 11 
+ 
+Label 86 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 201.4442  245.8681  0.0000  
+    Connected elements                  : 6 24 
+ 
+Label 87 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 100.8617  248.2886  0.0000  
+    Connected elements                  : 6 7 
+ 
+Label 88 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 50.4906   199.1688  0.0000  
+    Connected elements                  : 7 10 
+ 
+Label 89 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 50.7162   99.5182   0.0000  
+    Connected elements                  : 8 10 
+ 
+Label 90 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 101.7079  49.5182   0.0000  
+    Connected elements                  : 8 9 
+ 
+Label 91 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 203.3724  48.9139   0.0000  
+    Connected elements                  : 9 16 
+ 
+Label 92 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 152.1052  98.4321   0.0000  
+    Connected elements                  : 9 11 
+ 
+Label 93 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 101.2068  148.6870  0.0000  
+    Connected elements                  : 10 11 
+ 
+Label 94 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 202.2656  146.9499  0.0000  
+    Connected elements                  : 11 21 
+ 
+Label 95 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 250.9039  396.3281  0.0000  
+    Connected elements                  : 12 23 
+ 
+Label 96 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 302.1923  447.6034  0.0000  
+    Connected elements                  : 12 14 
+ 
+Label 97 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 440.8424  392.8598  0.0000  
+    Connected elements                  : 13 19 
+ 
+Label 98 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 495.6977  446.6293  0.0000  
+    Connected elements                  : 13 27 
+ 
+Label 99 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 400.9097  446.2305  0.0000  
+    Connected elements                  : 13 14 
+ 
+Label 100 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 348.6181  393.8339  0.0000  
+    Connected elements                  : 14 25 
+ 
+Label 101 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 507.8904  47.6798   0.0000  
+    Connected elements                  : 15 39 
+ 
+Label 102 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 455.3740  94.9326   0.0000  
+    Connected elements                  : 15 18 
+ 
+Label 103 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 406.4090  47.2529   0.0000  
+    Connected elements                  : 15 17 
+ 
+Label 104 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 253.3450  96.9966   0.0000  
+    Connected elements                  : 16 21 
+ 
+Label 105 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 304.9311  48.0828   0.0000  
+    Connected elements                  : 16 17 
+ 
+Label 106 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 354.3981  95.3356   0.0000  
+    Connected elements                  : 17 22 
+ 
+Label 107 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 403.3776  140.7086  0.0000  
+    Connected elements                  : 18 22 
+ 
+Label 108 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 503.4879  138.7043  0.0000  
+    Connected elements                  : 18 40 
+ 
+Label 109 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 451.4915  184.4803  0.0000  
+    Connected elements                  : 18 20 
+ 
+Label 110 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 492.4949  321.6293  0.0000  
+    Connected elements                  : 19 28 
+ 
+Label 111 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 398.0639  336.3425  0.0000  
+    Connected elements                  : 19 25 
+ 
+Label 112 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 449.7163  265.1120  0.0000  
+    Connected elements                  : 19 20 
+ 
+Label 113 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 400.6518  233.5678  0.0000  
+    Connected elements                  : 20 26 
+ 
+Label 114 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 500.5561  216.0245  0.0000  
+    Connected elements                  : 20 38 
+ 
+Label 115 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 251.9030  194.2586  0.0000  
+    Connected elements                  : 21 24 
+ 
+Label 116 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 302.9824  144.3053  0.0000  
+    Connected elements                  : 21 22 
+ 
+Label 117 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 351.9618  189.6783  0.0000  
+    Connected elements                  : 22 26 
+ 
+Label 118 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 300.6360  343.0397  0.0000  
+    Connected elements                  : 23 25 
+ 
+Label 119 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 250.9331  293.2683  0.0000  
+    Connected elements                  : 23 24 
+ 
+Label 120 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 301.3919  241.6589  0.0000  
+    Connected elements                  : 24 26 
+ 
+Label 121 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 350.0818  285.5483  0.0000  
+    Connected elements                  : 25 26 
+ 
+Label 122 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 583.1972  454.3049  0.0000  
+    Connected elements                  : 27 87 
+ 
+Label 123 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 521.8488  400.9342  0.0000  
+    Connected elements                  : 27 28 
+ 
+Label 124 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 540.0093  275.6077  0.0000  
+    Connected elements                  : 28 38 
+ 
+Label 125 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 569.3631  354.9126  0.0000  
+    Connected elements                  : 28 87 
+ 
+Label 126 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 882.0895  421.9638  0.0000  
+    Connected elements                  : 29 31 
+ 
+Label 127 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 822.2140  451.9638  0.0000  
+    Connected elements                  : 29 30 
+ 
+Label 128 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 725.0278  441.0463  0.0000  
+    Connected elements                  : 30 86 
+ 
+Label 129 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 787.6335  393.0101  0.0000  
+    Connected elements                  : 30 84 
+ 
+Label 130 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 913.1575  290.3353  0.0000  
+    Connected elements                  : 31 32 
+ 
+Label 131 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 950.8749  365.0851  0.0000  
+    Connected elements                  : 31 60 
+ 
+Label 132 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 844.3722  347.2140  0.0000  
+    Connected elements                  : 31 84 
+ 
+Label 133 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 893.5542  185.3617  0.0000  
+    Connected elements                  : 32 35 
+ 
+Label 134 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 954.8287  234.9977  0.0000  
+    Connected elements                  : 32 62 
+ 
+Label 135 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 851.8830  240.6993  0.0000  
+    Connected elements                  : 32 33 
+ 
+Label 136 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 811.0786  192.6247  0.0000  
+    Connected elements                  : 33 37 
+ 
+Label 137 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 808.3885  283.4630  0.0000  
+    Connected elements                  : 33 84 
+ 
+Label 138 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 767.5841  235.3884  0.0000  
+    Connected elements                  : 33 83 
+ 
+Label 139 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 821.7164  50.9676   0.0000  
+    Connected elements                  : 34 36 
+ 
+Label 140 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 921.3125  45.8530   0.0000  
+    Connected elements                  : 34 80 
+ 
+Label 141 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 876.1698  96.8206   0.0000  
+    Connected elements                  : 34 35 
+ 
+Label 142 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 931.3409  135.7656  0.0000  
+    Connected elements                  : 35 63 
+ 
+Label 143 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 838.3831  146.4166  0.0000  
+    Connected elements                  : 35 37 
+ 
+Label 144 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 716.3280  63.3895   0.0000  
+    Connected elements                  : 36 41 
+ 
+Label 145 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 773.1687  114.3572  0.0000  
+    Connected elements                  : 36 37 
+ 
+Label 146 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 745.8643  160.5652  0.0000  
+    Connected elements                  : 37 83 
+ 
+Label 147 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 586.8964  253.7608  0.0000  
+    Connected elements                  : 38 82 
+ 
+Label 148 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 547.4432  194.1775  0.0000  
+    Connected elements                  : 38 40 
+ 
+Label 149 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 609.7403  53.3007   0.0000  
+    Connected elements                  : 39 41 
+ 
+Label 150 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 556.7219  100.9805  0.0000  
+    Connected elements                  : 39 40 
+ 
+Label 151 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 600.6772  156.4537  0.0000  
+    Connected elements                  : 40 42 
+ 
+Label 152 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 663.1761  116.6902  0.0000  
+    Connected elements                  : 41 42 
+ 
+Label 153 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 700.2125  183.5614  0.0000  
+    Connected elements                  : 42 83 
+ 
+Label 154 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 637.7136  223.3249  0.0000  
+    Connected elements                  : 42 82 
+ 
+Label 155 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1691.2333  30.0000   0.0000  
+    Connected elements                  : 43 47 
+ 
+Label 156 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1658.2042  70.5494   0.0000  
+    Connected elements                  : 43 77 
+ 
+Label 157 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1621.9110  40.5494   0.0000  
+    Connected elements                  : 43 44 
+ 
+Label 158 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1575.8607  95.7393   0.0000  
+    Connected elements                  : 44 95 
+ 
+Label 159 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1525.8822  55.1899   0.0000  
+    Connected elements                  : 44 46 
+ 
+Label 160 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1351.7599  124.4327  0.0000  
+    Connected elements                  : 45 99 
+ 
+Label 161 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1312.8923  75.0000   0.0000  
+    Connected elements                  : 45 78 
+ 
+Label 162 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1415.6439  49.4327   0.0000  
+    Connected elements                  : 45 46 
+ 
+Label 163 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1464.4164  104.6226  0.0000  
+    Connected elements                  : 46 100 
+ 
+Label 164 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1731.4801  56.1346   0.0000  
+    Connected elements                  : 47 74 
+ 
+Label 165 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1965.0000  204.3750  0.0000  
+    Connected elements                  : 48 54 
+ 
+Label 166 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1913.9931  152.0561  0.0000  
+    Connected elements                  : 48 49 
+ 
+Label 167 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1865.0000  170.0000  0.0000  
+    Connected elements                  : 49 57 
+ 
+Label 168 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1811.8828  119.3192  0.0000  
+    Connected elements                  : 49 75 
+ 
+Label 169 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1965.0000  423.1250  0.0000  
+    Connected elements                  : 50 55 
+ 
+Label 170 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1914.0036  470.0000  0.0000  
+    Connected elements                  : 50 93 
+ 
+Label 171 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1682.1249  470.0000  0.0000  
+    Connected elements                  : 51 53 
+ 
+Label 172 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1630.2656  427.7402  0.0000  
+    Connected elements                  : 51 69 
+ 
+Label 173 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1697.1568  386.3731  0.0000  
+    Connected elements                  : 52 70 
+ 
+Label 174 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1766.4077  347.3478  0.0000  
+    Connected elements                  : 52 88 
+ 
+Label 175 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1805.3416  397.2595  0.0000  
+    Connected elements                  : 52 94 
+ 
+Label 176 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1736.0908  436.2849  0.0000  
+    Connected elements                  : 52 53 
+ 
+Label 177 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1799.0980  466.2849  0.0000  
+    Connected elements                  : 53 93 
+ 
+Label 178 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1924.1744  226.6665  0.0000  
+    Connected elements                  : 54 57 
+ 
+Label 179 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1959.1744  287.9165  0.0000  
+    Connected elements                  : 54 56 
+ 
+Label 180 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1906.4060  407.8899  0.0000  
+    Connected elements                  : 55 94 
+ 
+Label 181 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1893.7973  351.8331  0.0000  
+    Connected elements                  : 55 58 
+ 
+Label 182 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1952.3914  367.0682  0.0000  
+    Connected elements                  : 55 56 
+ 
+Label 183 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1911.5657  295.6097  0.0000  
+    Connected elements                  : 56 59 
+ 
+Label 184 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1817.8192  192.6106  0.0000  
+    Connected elements                  : 57 91 
+ 
+Label 185 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1876.9936  249.2771  0.0000  
+    Connected elements                  : 57 59 
+ 
+Label 186 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1845.6569  368.8645  0.0000  
+    Connected elements                  : 58 94 
+ 
+Label 187 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1817.1132  330.5216  0.0000  
+    Connected elements                  : 58 88 
+ 
+Label 188 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1865.2537  313.4902  0.0000  
+    Connected elements                  : 58 59 
+ 
+Label 189 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1830.6816  267.1576  0.0000  
+    Connected elements                  : 59 92 
+ 
+Label 190 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1011.0289  313.9891  0.0000  
+    Connected elements                  : 60 61 
+ 
+Label 191 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1090.9201  235.9492  0.0000  
+    Connected elements                  : 61 65 
+ 
+Label 192 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1023.6821  244.3967  0.0000  
+    Connected elements                  : 61 62 
+ 
+Label 193 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 975.3136  166.1457  0.0000  
+    Connected elements                  : 62 63 
+ 
+Label 194 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1044.1671  175.5446  0.0000  
+    Connected elements                  : 62 64 
+ 
+Label 195 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 969.9962  87.7262   0.0000  
+    Connected elements                  : 63 80 
+ 
+Label 196 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1013.9689  118.1063  0.0000  
+    Connected elements                  : 63 64 
+ 
+Label 197 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1059.5396  89.5724   0.0000  
+    Connected elements                  : 64 81 
+ 
+Label 198 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1089.7378  147.0107  0.0000  
+    Connected elements                  : 64 66 
+ 
+Label 199 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1181.6480  196.2911  0.0000  
+    Connected elements                  : 65 67 
+ 
+Label 200 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1130.4257  182.0475  0.0000  
+    Connected elements                  : 65 66 
+ 
+Label 201 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1153.6605  97.3437   0.0000  
+    Connected elements                  : 66 79 
+ 
+Label 202 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1194.3484  132.3805  0.0000  
+    Connected elements                  : 66 68 
+ 
+Label 203 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1231.7078  169.6831  0.0000  
+    Connected elements                  : 67 68 
+ 
+Label 204 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1269.0840  188.4742  0.0000  
+    Connected elements                  : 67 98 
+ 
+Label 205 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1289.0894  161.9472  0.0000  
+    Connected elements                  : 68 99 
+ 
+Label 206 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1251.7300  124.6446  0.0000  
+    Connected elements                  : 68 78 
+ 
+Label 207 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1581.6175  323.4233  0.0000  
+    Connected elements                  : 69 72 
+ 
+Label 208 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1639.0878  374.5192  0.0000  
+    Connected elements                  : 69 70 
+ 
+Label 209 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1634.3763  286.0979  0.0000  
+    Connected elements                  : 70 73 
+ 
+Label 210 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1692.4453  297.9518  0.0000  
+    Connected elements                  : 70 89 
+ 
+Label 211 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1635.9278  172.9096  0.0000  
+    Connected elements                  : 71 95 
+ 
+Label 212 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1688.9798  186.2458  0.0000  
+    Connected elements                  : 71 76 
+ 
+Label 213 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1685.0957  240.8847  0.0000  
+    Connected elements                  : 71 89 
+ 
+Label 214 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1632.0437  227.5485  0.0000  
+    Connected elements                  : 71 73 
+ 
+Label 215 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1523.0050  254.4416  0.0000  
+    Connected elements                  : 72 96 
+ 
+Label 216 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1577.5220  272.3232  0.0000  
+    Connected elements                  : 72 73 
+ 
+Label 217 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1575.1894  213.7738  0.0000  
+    Connected elements                  : 73 101 
+ 
+Label 218 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1711.2020  90.7181   0.0000  
+    Connected elements                  : 74 77 
+ 
+Label 219 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1778.0849  105.0373  0.0000  
+    Connected elements                  : 74 75 
+ 
+Label 220 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1777.2603  165.8223  0.0000  
+    Connected elements                  : 75 91 
+ 
+Label 221 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1743.4624  151.5404  0.0000  
+    Connected elements                  : 75 76 
+ 
+Label 222 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1732.0675  200.1284  0.0000  
+    Connected elements                  : 76 90 
+ 
+Label 223 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1700.3746  137.6579  0.0000  
+    Connected elements                  : 76 77 
+ 
+Label 224 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1647.3767  117.4891  0.0000  
+    Connected elements                  : 77 95 
+ 
+Label 225 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1213.6306  49.6446   0.0000  
+    Connected elements                  : 78 79 
+ 
+Label 226 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1112.8394  47.6991   0.0000  
+    Connected elements                  : 79 81 
+ 
+Label 227 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1017.5263  41.8732   0.0000  
+    Connected elements                  : 80 81 
+ 
+Label 228 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 618.0265  325.6471  0.0000  
+    Connected elements                  : 82 87 
+ 
+Label 229 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 668.8437  295.2112  0.0000  
+    Connected elements                  : 82 85 
+ 
+Label 230 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 721.9323  258.3847  0.0000  
+    Connected elements                  : 83 85 
+ 
+Label 231 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 751.6498  329.2591  0.0000  
+    Connected elements                  : 84 85 
+ 
+Label 232 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 698.5612  366.0856  0.0000  
+    Connected elements                  : 85 86 
+ 
+Label 233 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 631.8605  425.0394  0.0000  
+    Connected elements                  : 86 87 
+ 
+Label 234 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1741.8493  302.6634  0.0000  
+    Connected elements                  : 88 89 
+ 
+Label 235 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1792.5548  285.8372  0.0000  
+    Connected elements                  : 88 92 
+ 
+Label 236 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1734.4997  245.5963  0.0000  
+    Connected elements                  : 89 90 
+ 
+Label 237 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1769.6402  206.9379  0.0000  
+    Connected elements                  : 90 91 
+ 
+Label 238 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1772.0723  252.4058  0.0000  
+    Connected elements                  : 90 92 
+ 
+Label 239 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1810.1991  233.7261  0.0000  
+    Connected elements                  : 91 92 
+ 
+Label 240 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1866.0908  436.2849  0.0000  
+    Connected elements                  : 93 94 
+ 
+Label 241 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1564.4118  151.1598  0.0000  
+    Connected elements                  : 95 101 
+ 
+Label 242 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1447.5957  203.3308  0.0000  
+    Connected elements                  : 96 97 
+ 
+Label 243 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1507.3758  207.5795  0.0000  
+    Connected elements                  : 96 101 
+ 
+Label 244 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1358.2067  182.3094  0.0000  
+    Connected elements                  : 97 98 
+ 
+Label 245 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1419.4593  170.5579  0.0000  
+    Connected elements                  : 97 100 
+ 
+Label 246 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1324.6070  167.7295  0.0000  
+    Connected elements                  : 98 99 
+ 
+Label 247 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1387.2775  130.2150  0.0000  
+    Connected elements                  : 99 100 
+ 
+Label 248 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1496.5981  144.9655  0.0000  
+    Connected elements                  : 100 101 
+ 
+Label 249 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    400.0000  0.0000  
+    Connected elements                  : 4 5 
+ 
+Label 250 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    300.0000  0.0000  
+    Connected elements                  : 4 7 
+ 
+Label 251 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    200.0000  0.0000  
+    Connected elements                  : 7 10 
+ 
+Label 252 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    100.0000  0.0000  
+    Connected elements                  : 8 10 
+ 
+Label 253 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    350.0000  0.0000  
+    Connected elements                  : 4 
+ 
+Label 254 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    450.0000  0.0000  
+    Connected elements                  : 5 
+ 
+Label 255 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    250.0000  0.0000  
+    Connected elements                  : 7 
+ 
+Label 256 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    50.0000   0.0000  
+    Connected elements                  : 8 
+ 
+Label 257 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    150.0000  0.0000  
+    Connected elements                  : 10 
+ 
+Label 258 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 911.5299  500.0000  0.0000  
+    Connected elements                  : 1 29 
+ 
+Label 259 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 810.2488  500.0000  0.0000  
+    Connected elements                  : 29 30 
+ 
+Label 260 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 708.9677  500.0000  0.0000  
+    Connected elements                  : 30 86 
+ 
+Label 261 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 607.6866  500.0000  0.0000  
+    Connected elements                  : 27 86 87 
+ 
+Label 262 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 506.4055  500.0000  0.0000  
+    Connected elements                  : 13 27 
+ 
+Label 263 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 405.1244  500.0000  0.0000  
+    Connected elements                  : 13 14 
+ 
+Label 264 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 303.8433  500.0000  0.0000  
+    Connected elements                  : 12 14 
+ 
+Label 265 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 202.5622  500.0000  0.0000  
+    Connected elements                  : 3 12 
+ 
+Label 266 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 101.2811  500.0000  0.0000  
+    Connected elements                  : 3 5 
+ 
+Label 267 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 957.1069  500.0000  0.0000  
+    Connected elements                  : 1 
+ 
+Label 268 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 151.9217  500.0000  0.0000  
+    Connected elements                  : 3 
+ 
+Label 269 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 50.6406   500.0000  0.0000  
+    Connected elements                  : 5 
+ 
+Label 270 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 253.2028  500.0000  0.0000  
+    Connected elements                  : 12 
+ 
+Label 271 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 455.7650  500.0000  0.0000  
+    Connected elements                  : 13 
+ 
+Label 272 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 354.4839  500.0000  0.0000  
+    Connected elements                  : 14 
+ 
+Label 273 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 557.0461  500.0000  0.0000  
+    Connected elements                  : 27 
+ 
+Label 274 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 860.8894  500.0000  0.0000  
+    Connected elements                  : 29 
+ 
+Label 275 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 759.6083  500.0000  0.0000  
+    Connected elements                  : 30 
+ 
+Label 276 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 658.3272  500.0000  0.0000  
+    Connected elements                  : 86 
+ 
+Label 277 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 101.9834  0.0000    0.0000  
+    Connected elements                  : 8 9 
+ 
+Label 278 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 203.9669  0.0000    0.0000  
+    Connected elements                  : 9 16 
+ 
+Label 279 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 305.9503  0.0000    0.0000  
+    Connected elements                  : 16 17 
+ 
+Label 280 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 407.9337  0.0000    0.0000  
+    Connected elements                  : 15 17 
+ 
+Label 281 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 509.9171  0.0000    0.0000  
+    Connected elements                  : 15 39 
+ 
+Label 282 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 611.9006  0.0000    0.0000  
+    Connected elements                  : 39 41 
+ 
+Label 283 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 713.8840  0.0000    0.0000  
+    Connected elements                  : 36 41 
+ 
+Label 284 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 815.8674  0.0000    0.0000  
+    Connected elements                  : 34 36 
+ 
+Label 285 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 917.8509  0.0000    0.0000  
+    Connected elements                  : 34 80 
+ 
+Label 286 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1019.8343  0.0000    0.0000  
+    Connected elements                  : 80 81 
+ 
+Label 287 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1121.8177  0.0000    0.0000  
+    Connected elements                  : 79 81 
+ 
+Label 288 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1223.8012  0.0000    0.0000  
+    Connected elements                  : 78 79 
+ 
+Label 289 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1325.7846  0.0000    0.0000  
+    Connected elements                  : 45 78 
+ 
+Label 290 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1427.7680  0.0000    0.0000  
+    Connected elements                  : 45 46 
+ 
+Label 291 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1526.4514  0.0000    0.0000  
+    Connected elements                  : 44 46 
+ 
+Label 292 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1617.4136  0.0000    0.0000  
+    Connected elements                  : 43 44 
+ 
+Label 293 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1692.4666  0.0000    0.0000  
+    Connected elements                  : 43 47 
+ 
+Label 294 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 50.9917   0.0000    0.0000  
+    Connected elements                  : 8 
+ 
+Label 295 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 152.9751  0.0000    0.0000  
+    Connected elements                  : 9 
+ 
+Label 296 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 458.9254  0.0000    0.0000  
+    Connected elements                  : 15 
+ 
+Label 297 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 254.9586  0.0000    0.0000  
+    Connected elements                  : 16 
+ 
+Label 298 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 356.9420  0.0000    0.0000  
+    Connected elements                  : 17 
+ 
+Label 299 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 866.8591  0.0000    0.0000  
+    Connected elements                  : 34 
+ 
+Label 300 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 764.8757  0.0000    0.0000  
+    Connected elements                  : 36 
+ 
+Label 301 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 560.9089  0.0000    0.0000  
+    Connected elements                  : 39 
+ 
+Label 302 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 662.8923  0.0000    0.0000  
+    Connected elements                  : 41 
+ 
+Label 303 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1654.9401  0.0000    0.0000  
+    Connected elements                  : 43 
+ 
+Label 304 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1571.9325  0.0000    0.0000  
+    Connected elements                  : 44 
+ 
+Label 305 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1376.7763  0.0000    0.0000  
+    Connected elements                  : 45 
+ 
+Label 306 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1477.1097  0.0000    0.0000  
+    Connected elements                  : 46 
+ 
+Label 307 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1721.2333  0.0000    0.0000  
+    Connected elements                  : 47 
+ 
+Label 308 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1274.7929  0.0000    0.0000  
+    Connected elements                  : 78 
+ 
+Label 309 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1172.8094  0.0000    0.0000  
+    Connected elements                  : 79 
+ 
+Label 310 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 968.8426  0.0000    0.0000  
+    Connected elements                  : 80 
+ 
+Label 311 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1070.8260  0.0000    0.0000  
+    Connected elements                  : 81 
+ 
+Label 312 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1590.5312  415.4803  0.0000  
+    Connected elements                  : 51 69 
+ 
+Label 313 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1555.0593  337.8081  0.0000  
+    Connected elements                  : 69 72 
+ 
+Label 314 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1499.1418  273.2753  0.0000  
+    Connected elements                  : 72 96 
+ 
+Label 315 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1427.3082  227.1105  0.0000  
+    Connected elements                  : 96 97 
+ 
+Label 316 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1345.3781  203.0541  0.0000  
+    Connected elements                  : 97 98 
+ 
+Label 317 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1259.9894  203.0541  0.0000  
+    Connected elements                  : 67 98 
+ 
+Label 318 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1178.0592  227.1105  0.0000  
+    Connected elements                  : 65 67 
+ 
+Label 319 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1106.2256  273.2753  0.0000  
+    Connected elements                  : 61 65 
+ 
+Label 320 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1050.3081  337.8081  0.0000  
+    Connected elements                  : 60 61 
+ 
+Label 321 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1014.8362  415.4803  0.0000  
+    Connected elements                  : 1 60 
+ 
+Label 322 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1005.7383  457.3055  0.0000  
+    Connected elements                  : 1 
+ 
+Label 323 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1599.6292  457.3055  0.0000  
+    Connected elements                  : 51 
+ 
+Label 324 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1029.7946  375.3757  0.0000  
+    Connected elements                  : 60 
+ 
+Label 325 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1075.9592  303.5421  0.0000  
+    Connected elements                  : 61 
+ 
+Label 326 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1140.4915  247.6240  0.0000  
+    Connected elements                  : 65 
+ 
+Label 327 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1218.1640  212.1524  0.0000  
+    Connected elements                  : 67 
+ 
+Label 328 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1575.5728  375.3757  0.0000  
+    Connected elements                  : 69 
+ 
+Label 329 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1529.4083  303.5421  0.0000  
+    Connected elements                  : 72 
+ 
+Label 330 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1464.8760  247.6240  0.0000  
+    Connected elements                  : 96 
+ 
+Label 331 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1387.2034  212.1524  0.0000  
+    Connected elements                  : 97 
+ 
+Label 332 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1302.6837  200.0006  0.0000  
+    Connected elements                  : 98 
+ 
+Label 333 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1898.0072  500.0000  0.0000  
+    Connected elements                  : 50 93 
+ 
+Label 334 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1796.0145  500.0000  0.0000  
+    Connected elements                  : 53 93 
+ 
+Label 335 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1694.2499  500.0000  0.0000  
+    Connected elements                  : 51 53 
+ 
+Label 336 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1949.0036  500.0000  0.0000  
+    Connected elements                  : 50 
+ 
+Label 337 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1648.4668  500.0000  0.0000  
+    Connected elements                  : 51 
+ 
+Label 338 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1745.1322  500.0000  0.0000  
+    Connected elements                  : 53 
+ 
+Label 339 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1847.0109  500.0000  0.0000  
+    Connected elements                  : 93 
+ 
+Label 340 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1772.9602  52.2692   0.0000  
+    Connected elements                  : 47 74 
+ 
+Label 341 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1823.7657  88.6385   0.0000  
+    Connected elements                  : 49 74 75 
+ 
+Label 342 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1897.9862  114.1123  0.0000  
+    Connected elements                  : 48 49 
+ 
+Label 343 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1756.5036  28.2544   0.0000  
+    Connected elements                  : 47 
+ 
+Label 344 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1948.6963  122.3378  0.0000  
+    Connected elements                  : 48 
+ 
+Label 345 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1860.1156  103.5867  0.0000  
+    Connected elements                  : 49 
+ 
+Label 346 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1796.7251  72.7338   0.0000  
+    Connected elements                  : 74 
+ 
+Label 347 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  218.7500  0.0000  
+    Connected elements                  : 48 54 
+ 
+Label 348 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  312.5000  0.0000  
+    Connected elements                  : 54 56 
+ 
+Label 349 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  406.2500  0.0000  
+    Connected elements                  : 50 55 56 
+ 
+Label 350 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  171.8750  0.0000  
+    Connected elements                  : 48 
+ 
+Label 351 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  453.1250  0.0000  
+    Connected elements                  : 50 
+ 
+Label 352 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  265.6250  0.0000  
+    Connected elements                  : 54 
+ 
+Label 353 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  359.3750  0.0000  
+    Connected elements                  : 56 
+ 
+Label 354 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    500.0000  0.0000  
+    Connected elements                  : 5 
+ 
+Label 355 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 0.0000    0.0000    0.0000  
+    Connected elements                  : 8 
+ 
+Label 356 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1002.6838  500.0000  0.0000  
+    Connected elements                  : 1 
+ 
+Label 357 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1750.0000  0.0000    0.0000  
+    Connected elements                  : 47 
+ 
+Label 358 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 1602.6837  500.0000  0.0000  
+    Connected elements                  : 51 
+ 
+Label 359 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  500.0000  0.0000  
+    Connected elements                  : 50 
+ 
+Label 360 
+    Displacement Csys                   : ABSOLUTE
+    Reference Csys                      : ABSOLUTE
+    Global coordinates                  : 2000.0000  125.0000  0.0000  
+    Connected elements                  : 48 
+ 

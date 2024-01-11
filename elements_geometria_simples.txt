@@ -1,0 +1,87 @@
+﻿Information listing created by	ASUS
+Date	09-Dec-2023 18:53:42
+Current work part	C:\Users\ASUS\Documents\MCOMP\PROJETO\PASTA A SÉRIO MCOMP\geomtria simples\geometria.simples_fem1.fem
+Node name	LAPTOP-RQ9ND5TO
+
+
+ 
+------------------------------------------------------------
+ 
+              ELEMENT INFORMATION
+ 
+------------------------------------------------------------
+ 
+ 
+ELEMENT INFORMATION
+  Label                | Element Type   | Mesh           | Mesh Collector | Connected Nodes
+  1                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 11 10 8 9
+  2                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 11 9 5 6
+  3                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 81 82 10 11
+  4                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 81 11 6 80
+  5                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 12 49 50 7
+  6                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 12 7 8 10
+  7                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 83 87 49 12
+  8                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 83 12 10 82
+  9                    | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 13 54 55 4
+  10                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 13 4 5 9
+  11                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 53 54 13 14
+  12                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 15 51 88 52
+  13                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 15 52 53 14
+  14                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 7 50 51 15
+  15                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 14 13 9 8
+  16                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 14 8 7 15
+  17                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 20 19 17 18
+  18                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 20 18 2 3
+  19                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 77 78 19 20
+  20                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 77 20 3 76
+  21                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 21 6 5 16
+  22                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 21 16 17 19
+  23                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 79 80 6 21
+  24                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 79 21 19 78
+  25                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 23 22 57 58
+  26                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 23 58 59 1
+  27                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 18 17 22 23
+  28                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 18 23 1 2
+  29                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 24 4 55 56
+  30                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 24 56 57 22
+  31                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 16 5 4 24
+  32                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 16 24 22 17
+  33                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 32 31 29 30
+  34                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 32 30 26 27
+  35                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 73 74 31 32
+  36                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 73 32 27 72
+  37                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 33 3 2 28
+  38                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 33 28 29 31
+  39                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 75 76 3 33
+  40                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 75 33 31 74
+  41                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 35 34 61 62
+  42                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 35 62 63 25
+  43                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 30 29 34 35
+  44                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 30 35 25 26
+  45                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 36 1 59 60
+  46                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 36 60 61 34
+  47                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 28 2 1 36
+  48                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 28 36 34 29
+  49                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 41 39 70 71
+  50                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 41 71 72 27
+  51                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 40 38 39 41
+  52                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 40 41 27 26
+  53                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 42 25 63 64
+  54                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 42 64 65 37
+  55                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 40 26 25 42
+  56                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 40 42 37 38
+  57                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 45 69 70 39
+  58                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 45 39 38 43
+  59                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 46 86 90 68
+  60                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 46 68 69 45
+  61                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 44 85 86 46
+  62                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 44 46 45 43
+  63                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 47 43 38 37
+  64                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 47 37 65 66
+  65                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 48 84 85 44
+  66                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 48 44 43 47
+  67                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 67 89 84 48
+  68                   | CQUAD4         | 2d_mesh(1)     | Thin Shell(1)  | 67 48 47 66
+ 
+------------------------------------------------------------
+ 
